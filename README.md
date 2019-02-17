@@ -1,2 +1,2 @@
 # 2048_TheGame
-2048 game developed on LPC1758 using RGB LED matrix display.
+Implementation of 2048 a single-player sliding block puzzle game on a 64x64 RGB LED matrix display using Joystick and Accelerometer as inputs. Developed in C++, with FreeRTOS on LPC1758.
